@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MateusLeite\\Desktop\\ZooApi\\ZooApi.csproj": {}
+    "c:\\Users\\MateusLeite\\Desktop\\zoomanager\\ZooApi\\ZooApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MateusLeite\\Desktop\\ZooApi\\ZooApi.csproj": {
+    "c:\\Users\\MateusLeite\\Desktop\\zoomanager\\ZooApi\\ZooApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MateusLeite\\Desktop\\ZooApi\\ZooApi.csproj",
+        "projectUniqueName": "c:\\Users\\MateusLeite\\Desktop\\zoomanager\\ZooApi\\ZooApi.csproj",
         "projectName": "ZooApi",
-        "projectPath": "C:\\Users\\MateusLeite\\Desktop\\ZooApi\\ZooApi.csproj",
+        "projectPath": "c:\\Users\\MateusLeite\\Desktop\\zoomanager\\ZooApi\\ZooApi.csproj",
         "packagesPath": "C:\\Users\\MateusLeite\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MateusLeite\\Desktop\\ZooApi\\obj\\",
+        "outputPath": "c:\\Users\\MateusLeite\\Desktop\\zoomanager\\ZooApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MateusLeite\\AppData\\Roaming\\NuGet\\NuGet.Config"

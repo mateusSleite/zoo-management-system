@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QcGFdFYQczvyk8mzJuiMwJSnKpBn2yqJg+r7Z+trtcqsvCBeM4SAAD/UKVABQtDe0aHa1zbocal6kLXnOoR8Tg==",
+  "dgSpecHash": "qNZ7cPA7UdUBEgrIoqB54oILS45b8LlKhP9gQ4gtV1Itn59D/gXEBYh18tQfXwDD+grOaxBvRp7k7mMA65RlOA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\MateusLeite\\Desktop\\ZooApi\\ZooApi.csproj",
+  "projectFilePath": "c:\\Users\\MateusLeite\\Desktop\\zoomanager\\ZooApi\\ZooApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MateusLeite\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\MateusLeite\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
